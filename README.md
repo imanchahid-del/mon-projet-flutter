@@ -1,6 +1,11 @@
-# firstproject
 
-A new Flutter project.
+# Mon projet Flutter
+
+Mon premier projet Flutter pour afficher un widget.
+
+## Présentation
+
+Ce projet est développé avec Flutter et Dart.
 
 ## Getting Started
 
